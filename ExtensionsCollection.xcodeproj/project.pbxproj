@@ -8,6 +8,14 @@
 
 /* Begin PBXBuildFile section */
 		52E2E8F9B72CBB5FA0856D6C /* Pods_ExtensionsCollectionUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E61319775A8E7C303E886862 /* Pods_ExtensionsCollectionUITests.framework */; };
+		8B6C9AE8222290BE00FA9BBA /* PinterestLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B6C9AE5222290BE00FA9BBA /* PinterestLayout.swift */; };
+		8B6C9AE9222290BE00FA9BBA /* FXBlurView.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B6C9AE7222290BE00FA9BBA /* FXBlurView.m */; };
+		8B6C9AF1222290EE00FA9BBA /* UIAlertActionWithId.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B6C9AEB222290ED00FA9BBA /* UIAlertActionWithId.swift */; };
+		8B6C9AF2222290EE00FA9BBA /* UIProfileImageLink.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B6C9AEC222290ED00FA9BBA /* UIProfileImageLink.swift */; };
+		8B6C9AF3222290EE00FA9BBA /* UIImageLink.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B6C9AED222290ED00FA9BBA /* UIImageLink.swift */; };
+		8B6C9AF4222290EE00FA9BBA /* ImagePickerVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B6C9AEE222290ED00FA9BBA /* ImagePickerVC.swift */; };
+		8B6C9AF5222290EE00FA9BBA /* UICustomLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B6C9AEF222290ED00FA9BBA /* UICustomLabel.swift */; };
+		8B6C9AF6222290EE00FA9BBA /* UINavigationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B6C9AF0222290ED00FA9BBA /* UINavigationController.swift */; };
 		8BAF23A7221C089B00AE4EE4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BAF23A6221C089B00AE4EE4 /* AppDelegate.swift */; };
 		8BAF23AC221C089B00AE4EE4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8BAF23AA221C089B00AE4EE4 /* Main.storyboard */; };
 		8BAF23AE221C089D00AE4EE4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8BAF23AD221C089D00AE4EE4 /* Assets.xcassets */; };
@@ -70,6 +78,15 @@
 		36C2DC64CA747DFE3E229CE9 /* Pods-ExtensionsCollectionTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ExtensionsCollectionTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ExtensionsCollectionTests/Pods-ExtensionsCollectionTests.debug.xcconfig"; sourceTree = "<group>"; };
 		4C204BE752776828A681A956 /* Pods_ExtensionsCollectionTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ExtensionsCollectionTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		606DBAEE5716148DB4CD68C9 /* Pods-ExtensionsCollection.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ExtensionsCollection.release.xcconfig"; path = "Pods/Target Support Files/Pods-ExtensionsCollection/Pods-ExtensionsCollection.release.xcconfig"; sourceTree = "<group>"; };
+		8B6C9AE5222290BE00FA9BBA /* PinterestLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PinterestLayout.swift; sourceTree = "<group>"; };
+		8B6C9AE6222290BE00FA9BBA /* FXBlurView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FXBlurView.h; sourceTree = "<group>"; };
+		8B6C9AE7222290BE00FA9BBA /* FXBlurView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FXBlurView.m; sourceTree = "<group>"; };
+		8B6C9AEB222290ED00FA9BBA /* UIAlertActionWithId.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIAlertActionWithId.swift; sourceTree = "<group>"; };
+		8B6C9AEC222290ED00FA9BBA /* UIProfileImageLink.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIProfileImageLink.swift; sourceTree = "<group>"; };
+		8B6C9AED222290ED00FA9BBA /* UIImageLink.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIImageLink.swift; sourceTree = "<group>"; };
+		8B6C9AEE222290ED00FA9BBA /* ImagePickerVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImagePickerVC.swift; sourceTree = "<group>"; };
+		8B6C9AEF222290ED00FA9BBA /* UICustomLabel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UICustomLabel.swift; sourceTree = "<group>"; };
+		8B6C9AF0222290ED00FA9BBA /* UINavigationController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UINavigationController.swift; sourceTree = "<group>"; };
 		8BAF23A3221C089B00AE4EE4 /* ExtensionsCollection.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ExtensionsCollection.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8BAF23A6221C089B00AE4EE4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8BAF23AB221C089B00AE4EE4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -155,11 +172,33 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		8B6C9AEA222290ED00FA9BBA /* CustomClasses */ = {
+			isa = PBXGroup;
+			children = (
+				8B6C9AEB222290ED00FA9BBA /* UIAlertActionWithId.swift */,
+				8B6C9AEC222290ED00FA9BBA /* UIProfileImageLink.swift */,
+				8B6C9AED222290ED00FA9BBA /* UIImageLink.swift */,
+				8B6C9AEE222290ED00FA9BBA /* ImagePickerVC.swift */,
+				8B6C9AEF222290ED00FA9BBA /* UICustomLabel.swift */,
+				8B6C9AF0222290ED00FA9BBA /* UINavigationController.swift */,
+			);
+			path = CustomClasses;
+			sourceTree = "<group>";
+		};
+		8B6C9AF72222936900FA9BBA /* VCs */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = VCs;
+			sourceTree = "<group>";
+		};
 		8BAF239A221C089B00AE4EE4 = {
 			isa = PBXGroup;
 			children = (
+				8B6C9AF72222936900FA9BBA /* VCs */,
 				8BAF23F1221C0A1F00AE4EE4 /* Extensions */,
 				8BAF23D4221C08BF00AE4EE4 /* CustomViews */,
+				8B6C9AEA222290ED00FA9BBA /* CustomClasses */,
 				8BAF23A5221C089B00AE4EE4 /* ExtensionsCollection */,
 				8BAF23BA221C089D00AE4EE4 /* ExtensionsCollectionTests */,
 				8BAF23C5221C089D00AE4EE4 /* ExtensionsCollectionUITests */,
@@ -216,6 +255,9 @@
 				8BAF23DB221C08D800AE4EE4 /* CircularLabel.swift */,
 				8BAF23DE221C08D800AE4EE4 /* DropDownMenuButton.swift */,
 				8BAF23E1221C08D900AE4EE4 /* InsetsUILabel.swift */,
+				8B6C9AE5222290BE00FA9BBA /* PinterestLayout.swift */,
+				8B6C9AE6222290BE00FA9BBA /* FXBlurView.h */,
+				8B6C9AE7222290BE00FA9BBA /* FXBlurView.m */,
 				8BAF23DD221C08D800AE4EE4 /* RoundedImage.swift */,
 				8BAF23D7221C08D700AE4EE4 /* RoundedSegmentView.swift */,
 				8BAF23E0221C08D900AE4EE4 /* RoundedTextField.swift */,
@@ -459,23 +501,30 @@
 				8BAF23E3221C08D900AE4EE4 /* ViewWithShadow.swift in Sources */,
 				8BAF240B221C0A5A00AE4EE4 /* UINavigationControllerExtensions.swift in Sources */,
 				8BAF2406221C0A5A00AE4EE4 /* UIViewExtensions.swift in Sources */,
+				8B6C9AF2222290EE00FA9BBA /* UIProfileImageLink.swift in Sources */,
 				8BAF23E8221C08D900AE4EE4 /* UnderlinedUITextField.swift in Sources */,
 				8BAF23EF221C08D900AE4EE4 /* InsetsUILabel.swift in Sources */,
 				8BAF2404221C0A5A00AE4EE4 /* FileManagerExt.swift in Sources */,
 				8BAF23EA221C08D900AE4EE4 /* RoundedView.swift in Sources */,
 				8BAF23EE221C08D900AE4EE4 /* RoundedTextField.swift in Sources */,
+				8B6C9AE8222290BE00FA9BBA /* PinterestLayout.swift in Sources */,
 				8BAF2401221C0A5A00AE4EE4 /* DictionaryExt.swift in Sources */,
 				8BAF2402221C0A5A00AE4EE4 /* ArabicEnglishStringExtention.swift in Sources */,
+				8B6C9AF1222290EE00FA9BBA /* UIAlertActionWithId.swift in Sources */,
 				8BAF23ED221C08D900AE4EE4 /* UIViewWithUpperBorderOnly.swift in Sources */,
 				8BAF23A7221C089B00AE4EE4 /* AppDelegate.swift in Sources */,
 				8BAF23E9221C08D900AE4EE4 /* CircularLabel.swift in Sources */,
 				8BAF240A221C0A5A00AE4EE4 /* BoolExt.swift in Sources */,
 				8BAF2408221C0A5A00AE4EE4 /* UIApplicationExtensions.swift in Sources */,
+				8B6C9AF5222290EE00FA9BBA /* UICustomLabel.swift in Sources */,
 				8BAF2407221C0A5A00AE4EE4 /* StringExt.swift in Sources */,
 				8BAF240E221C0A5A00AE4EE4 /* UIImageViewExt.swift in Sources */,
 				8BAF23E5221C08D900AE4EE4 /* RoundedSegmentView.swift in Sources */,
 				8BAF23E6221C08D900AE4EE4 /* UICustomTextField.swift in Sources */,
+				8B6C9AF6222290EE00FA9BBA /* UINavigationController.swift in Sources */,
 				8BAF2403221C0A5A00AE4EE4 /* UIColorExtentions.swift in Sources */,
+				8B6C9AF3222290EE00FA9BBA /* UIImageLink.swift in Sources */,
+				8B6C9AE9222290BE00FA9BBA /* FXBlurView.m in Sources */,
 				8BAF240F221C0A5A00AE4EE4 /* UIViewControllerExt.swift in Sources */,
 				8BAF23EC221C08D900AE4EE4 /* DropDownMenuButton.swift in Sources */,
 				8BAF23EB221C08D900AE4EE4 /* RoundedImage.swift in Sources */,
@@ -483,6 +532,7 @@
 				8BAF23E4221C08D900AE4EE4 /* ViewWithBorder.swift in Sources */,
 				8BAF240D221C0A5A00AE4EE4 /* UIImageExtensions.swift in Sources */,
 				8BAF240C221C0A5A00AE4EE4 /* UIDeviceExtenstion.swift in Sources */,
+				8B6C9AF4222290EE00FA9BBA /* ImagePickerVC.swift in Sources */,
 				8BAF2409221C0A5A00AE4EE4 /* UITextFieldExtensions.swift in Sources */,
 				8BAF23E7221C08D900AE4EE4 /* RoundedUIButton.swift in Sources */,
 				8BAF23F0221C08D900AE4EE4 /* CheckBox.swift in Sources */,
